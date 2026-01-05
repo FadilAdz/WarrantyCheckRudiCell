@@ -1,0 +1,44 @@
+[2025-12-17 05:05:22] User: guest | Action: LOGIN_FAILED | Gagal login dengan username: admin
+[2025-12-17 05:05:28] User: guest | Action: LOGIN_FAILED | Gagal login dengan username: admin
+[2025-12-17 05:05:35] User: guest | Action: LOGIN_FAILED | Gagal login dengan username: admin
+[2025-12-17 05:06:17] User: guest | Action: LOGIN_FAILED | Gagal login dengan username: admin
+[2025-12-17 05:09:13] User: guest | Action: LOGIN_FAILED | Gagal login dengan username: admin
+[2025-12-17 16:38:31] User: guest | Action: LOGIN_FAILED | Gagal login dengan username: admin
+SELECT id, username, nama_lengkap FROM users WHERE username = 'admin';
+<?php
+echo password_hash('MyNewP@ssw0rd', PASSWORD_BCRYPT);
+UPDATE users SET password = '<HASH>' WHERE username = 'admin';
+[2025-12-17 16:47:16] User: guest | Action: LOGIN_FAILED | Gagal login dengan username: admin
+[2025-12-17 16:47:23] User: guest | Action: LOGIN_FAILED | Gagal login dengan username: admin
+[2025-12-17 17:00:25] User: 1 | Action: LOGIN | User admin berhasil login
+[2025-12-17 17:08:03] User: 1 | Action: LOGIN | User admin berhasil login
+[2025-12-18 06:40:04] User: guest | Action: LOGIN_FAILED | Gagal login dengan username: admin
+[2025-12-18 06:40:07] User: guest | Action: LOGIN_FAILED | Gagal login dengan username: admin
+[2025-12-18 06:41:22] User: guest | Action: LOGIN_FAILED | Gagal login dengan username: admin
+[2025-12-18 06:41:25] User: guest | Action: LOGIN_FAILED | Gagal login dengan username: admin
+[2025-12-18 06:41:29] User: 1 | Action: LOGIN | User admin berhasil login
+[2025-12-18 07:31:25] User: guest | Action: LOGIN_FAILED | Gagal login dengan username: admin
+[2025-12-18 07:31:29] User: guest | Action: LOGIN_FAILED | Gagal login dengan username: admin
+[2025-12-18 07:31:33] User: 1 | Action: LOGIN | User admin berhasil login
+[2025-12-18 08:45:20] User: 1 | Action: LOGIN | User admin berhasil login
+[2025-12-18 17:02:30] User: 1 | Action: LOGIN | User admin berhasil login
+[2025-12-18 18:04:36] User: 1 | Action: LOGIN | User admin berhasil login
+[2025-12-18 18:08:51] User: guest | Action: LOGIN_FAILED | Gagal login dengan username: admin
+[2025-12-18 18:11:13] User: 1 | Action: LOGIN | User admin berhasil login
+[2025-12-18 18:12:40] User: 1 | Action: LOGIN | User admin berhasil login
+[2025-12-19 06:59:04] User: 1 | Action: LOGIN | User admin berhasil login
+[2025-12-19 08:59:15] User: 1 | Action: LOGIN | User admin berhasil login
+[2025-12-21 16:58:33] User: guest | Action: LOGIN_FAILED | Gagal login dengan username: fakhri
+[2025-12-21 16:58:40] User: guest | Action: LOGIN_FAILED | Gagal login dengan username: admin
+[2025-12-21 16:58:45] User: guest | Action: LOGIN_FAILED | Gagal login dengan username: fakhri
+[2025-12-21 17:02:19] User: 1 | Action: LOGIN | User admin berhasil login
+[2025-12-21 17:18:12] User: 1 | Action: LOGIN | User admin berhasil login
+[2025-12-22 04:48:30] User: 1 | Action: LOGIN | User admin berhasil login
+[2026-01-04 21:02:14] User: guest | Action: LOGIN_FAILED | Gagal login dengan username: admin
+[2026-01-04 21:02:33] User: 1 | Action: LOGIN | User admin berhasil login
+[2026-01-04 21:04:13] User: 1 | Action: LOGIN | User admin berhasil login
+[2026-01-05 04:04:53] User: 1 | Action: LOGIN | User admin berhasil login
+[2026-01-05 04:07:14] User: 1 | Action: LOGIN | User admin berhasil login
+[2026-01-05 04:17:14] User: guest | Action: LOGIN_FAILED | Gagal login dengan username: admin&#039; --&#039;
+[2026-01-05 04:17:27] User: guest | Action: LOGIN_FAILED | Gagal login dengan username: admin &#039; OR1=1&#039;
+[2026-01-05 04:19:10] User: 1 | Action: LOGIN | User admin berhasil login

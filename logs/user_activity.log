@@ -1,0 +1,20 @@
+[2025-12-18 17:24:52] User ID: 1 | Username: admin | IP: ::1 | Action: EDIT_SERVICE | Details: User admin mengedit service id=3
+[2025-12-18 17:25:22] User ID: 1 | Username: admin | IP: ::1 | Action: DELETE_SERVICE | Details: User admin menghapus service id=1
+[2025-12-18 17:25:43] User ID: 1 | Username: admin | IP: ::1 | Action: EDIT_SERVICE | Details: User admin mengedit service id=2
+[2025-12-18 17:36:09] User ID: 1 | Username: admin | IP: ::1 | Action: EDIT_SERVICE | Details: User admin mengedit service id=5 via AJAX
+[2025-12-18 17:36:55] User ID: 1 | Username: admin | IP: ::1 | Action: EDIT_SERVICE | Details: User admin mengedit service id=5 via AJAX
+[2025-12-18 17:53:30] User ID: 1 | Username: admin | IP: ::1 | Action: CHANGE_PASSWORD | Details: User admin mengubah password
+[2025-12-18 18:11:49] User ID: 1 | Username: admin | IP: ::1 | Action: EDIT_SERVICE | Details: User admin mengedit service id=6 via AJAX
+[2025-12-18 18:17:01] User ID: 1 | Username: admin | IP: ::1 | Action: VERIFY_ADMIN_FAILED | Details: User admin gagal verifikasi sensitive action
+[2025-12-18 18:27:14] User ID: 1 | Username: admin | IP: ::1 | Action: DELETE_SERVICE | Details: User admin menghapus service id=5
+[2025-12-19 07:01:02] User ID: 1 | Username: admin | IP: ::1 | Action: DELETE_SERVICE | Details: User admin menghapus service id=7
+[2025-12-19 07:16:17] User ID: 1 | Username: admin | IP: ::1 | Action: DELETE_SERVICE | Details: User admin memindahkan service id=8 ke trash
+[2025-12-19 07:36:52] User ID: 1 | Username: admin | IP: ::1 | Action: DELETE_SERVICE | Details: User admin memindahkan service id=11 ke trash
+[2025-12-19 07:36:54] User ID: 1 | Username: admin | IP: ::1 | Action: DELETE_SERVICE | Details: User admin memindahkan service id=9 ke trash
+[2025-12-19 07:37:01] User ID: 1 | Username: admin | IP: ::1 | Action: DELETE_SERVICE | Details: User admin memindahkan service id=10 ke trash
+[2025-12-21 17:02:41] User ID: 1 | Username: admin | IP: ::1 | Action: DELETE_SERVICE | Details: User admin memindahkan service id=5 ke trash
+[2025-12-21 17:02:42] User ID: 1 | Username: admin | IP: ::1 | Action: DELETE_SERVICE | Details: User admin memindahkan service id=3 ke trash
+[2025-12-21 17:02:44] User ID: 1 | Username: admin | IP: ::1 | Action: DELETE_SERVICE | Details: User admin memindahkan service id=4 ke trash
+[2025-12-21 17:02:45] User ID: 1 | Username: admin | IP: ::1 | Action: DELETE_SERVICE | Details: User admin memindahkan service id=7 ke trash
+[2025-12-21 17:09:05] User ID: 1 | Username: admin | IP: ::1 | Action: VERIFY_ADMIN_FAILED | Details: User admin gagal verifikasi sensitive action
+[2026-01-05 04:05:25] User ID: 1 | Username: admin | IP: ::1 | Action: VERIFY_ADMIN_FAILED | Details: User admin gagal verifikasi sensitive action

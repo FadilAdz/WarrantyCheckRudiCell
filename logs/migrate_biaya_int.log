@@ -1,0 +1,16 @@
+[2025-12-19 08:12:25] Migration started
+[2025-12-19 08:12:25] Column biaya_int added
+[2025-12-19 08:12:25] Set biaya_int=20000 for id=12
+[2025-12-19 08:12:25] Set biaya_int=200000 for id=13
+[2025-12-19 08:12:25] Migration finished. Updated=2 rows.
+[2025-12-19 09:15:11] Migration started
+[2025-12-19 09:15:11] Column biaya_int already exists
+[2025-12-19 09:15:11] Set biaya_int=20000 for id=12
+[2025-12-19 09:15:11] Set biaya_int=200000 for id=13
+[2025-12-19 09:15:11] Set biaya_int=125000 for id=14
+[2025-12-19 09:15:11] Set biaya_int=200000 for id=15
+[2025-12-19 09:15:11] Set biaya_int=150000 for id=16
+[2025-12-19 09:15:11] Migration finished. Updated=5 rows.
+[2025-12-21 17:06:27] Migration started
+[2025-12-21 17:06:27] Column biaya_int added
+[2025-12-21 17:06:27] Migration finished. Updated=0 rows.

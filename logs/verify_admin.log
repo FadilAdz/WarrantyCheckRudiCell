@@ -1,0 +1,111 @@
+[2025-12-18 18:12:01] IP=::1 | PHPSESSID=5b25gge350t800ms67qsa3r3n4 | SESSION_USER=admin | POST_id=5 | POST_password=a******3
+[2025-12-18 18:12:01] Verified by session user (admin)
+[2025-12-18 18:12:26] IP=::1 | PHPSESSID=5b25gge350t800ms67qsa3r3n4 | SESSION_USER=admin | POST_id=5 | POST_password=a******3
+[2025-12-18 18:12:26] Verified by session user (admin)
+[2025-12-18 18:12:27] IP=::1 | PHPSESSID=5b25gge350t800ms67qsa3r3n4 | SESSION_USER=admin | POST_id=5 | POST_password=a******3
+[2025-12-18 18:12:27] Verified by session user (admin)
+[2025-12-18 18:12:27] IP=::1 | PHPSESSID=5b25gge350t800ms67qsa3r3n4 | SESSION_USER=admin | POST_id=5 | POST_password=a******3
+[2025-12-18 18:12:27] Verified by session user (admin)
+[2025-12-18 18:12:27] IP=::1 | PHPSESSID=5b25gge350t800ms67qsa3r3n4 | SESSION_USER=admin | POST_id=5 | POST_password=a******3
+[2025-12-18 18:12:27] Verified by session user (admin)
+[2025-12-18 18:13:40] IP=::1 | PHPSESSID=5b25gge350t800ms67qsa3r3n4 | SESSION_USER=admin | POST_id=7 | POST_password=a******3
+[2025-12-18 18:13:40] Verified by session user (admin)
+[2025-12-18 18:16:08] IP=::1 | PHPSESSID=5b25gge350t800ms67qsa3r3n4 | SESSION_USER=admin | POST_id=6 | POST_password=a******3
+[2025-12-18 18:16:08] Verified by session user (admin)
+[2025-12-18 18:17:00] IP=::1 | PHPSESSID=5b25gge350t800ms67qsa3r3n4 | SESSION_USER=admin | POST_id=6 | POST_password=p******d
+[2025-12-18 18:17:01] Verification FAILED for session user: admin
+[2025-12-18 18:17:11] IP=::1 | PHPSESSID=5b25gge350t800ms67qsa3r3n4 | SESSION_USER=admin | POST_id=6 | POST_password=a******3
+[2025-12-18 18:17:11] Verified by session user (admin)
+[2025-12-18 18:20:42] IP=::1 | PHPSESSID=5b25gge350t800ms67qsa3r3n4 | SESSION_USER=admin | POST_id=6 | POST_password=a******3
+[2025-12-18 18:20:42] Verified by session user (admin)
+[2025-12-18 18:22:07] IP=::1 | PHPSESSID=5b25gge350t800ms67qsa3r3n4 | SESSION_USER=admin | POST_id=6 | POST_password=a******3
+[2025-12-18 18:22:07] Verified by session user (admin)
+[2025-12-18 18:23:01] IP=::1 | PHPSESSID=5b25gge350t800ms67qsa3r3n4 | SESSION_USER=admin | POST_id=6 | POST_password=a******3
+[2025-12-18 18:23:01] Verified by session user (admin)
+[2025-12-18 18:26:56] IP=::1 | PHPSESSID=5b25gge350t800ms67qsa3r3n4 | SESSION_USER=admin | POST_id=6 | POST_password=a******3
+[2025-12-18 18:26:56] Verified by session user (admin)
+[2025-12-18 18:28:37] IP=::1 | PHPSESSID=5b25gge350t800ms67qsa3r3n4 | SESSION_USER=admin | POST_id=8 | POST_password=a******3
+[2025-12-18 18:28:37] Verified by session user (admin)
+[2025-12-18 18:30:56] IP=::1 | PHPSESSID=5b25gge350t800ms67qsa3r3n4 | SESSION_USER=admin | POST_id=8 | POST_password=a******3
+[2025-12-18 18:30:56] Verified by session user (admin)
+[2025-12-18 18:30:56] Encrypted lengths for id=8: nomor_hp_encrypted_len=68, data_transaksi_encrypted_len=1
+[2025-12-19 07:00:28] IP=::1 | PHPSESSID=jjm8eraofheni3148juv5jk71s | SESSION_USER=admin | POST_id=7 | POST_password=a******3
+[2025-12-19 07:00:29] Verified by session user (admin)
+[2025-12-19 07:00:29] Encrypted lengths for id=7: nomor_hp_encrypted_len=68, data_transaksi_encrypted_len=1
+[2025-12-19 07:11:06] IP=::1 | PHPSESSID=jjm8eraofheni3148juv5jk71s | SESSION_USER=admin | POST_id=6 | POST_password=a******3
+[2025-12-19 07:11:06] Verified by session user (admin)
+[2025-12-19 07:11:06] Encrypted lengths for id=6: nomor_hp_encrypted_len=68, data_transaksi_encrypted_len=1
+[2025-12-19 07:15:52] IP=::1 | PHPSESSID=jjm8eraofheni3148juv5jk71s | SESSION_USER=admin | POST_id=6 | POST_password=a******3
+[2025-12-19 07:15:52] Verified by session user (admin)
+[2025-12-19 07:15:52] Encrypted lengths for id=6: nomor_hp_encrypted_len=68, data_transaksi_encrypted_len=1
+[2025-12-19 07:17:24] IP=::1 | PHPSESSID=jjm8eraofheni3148juv5jk71s | SESSION_USER=admin | POST_id=9 | POST_password=a******3
+[2025-12-19 07:17:24] Verified by session user (admin)
+[2025-12-19 07:17:24] Encrypted lengths for id=9: nomor_hp_encrypted_len=68, data_transaksi_encrypted_len=1
+[2025-12-19 07:23:11] IP=::1 | PHPSESSID=jjm8eraofheni3148juv5jk71s | SESSION_USER=admin | POST_id=10 | POST_password=a******3
+[2025-12-19 07:23:11] Verified by session user (admin)
+[2025-12-19 07:23:11] Encrypted lengths for id=10: nomor_hp_encrypted_len=68, data_transaksi_encrypted_len=1
+[2025-12-19 07:35:38] IP=::1 | PHPSESSID=jjm8eraofheni3148juv5jk71s | SESSION_USER=admin | POST_id=10 | POST_password=a******3
+[2025-12-19 07:35:39] Verified by session user (admin)
+[2025-12-19 07:35:39] Encrypted lengths for id=10: nomor_hp_encrypted_len=68, data_transaksi_encrypted_len=208
+[2025-12-19 07:35:39] Decrypted payload for id=10 (truncated): {"biaya_service":0,"catatan":"","metode_pembayaran":"Cash","created_by":"system_repair"}
+[2025-12-19 07:35:39] Decoded keys for id=10: ["biaya_service","catatan","metode_pembayaran","created_by"] | biaya_service=0
+[2025-12-19 07:36:45] IP=::1 | PHPSESSID=jjm8eraofheni3148juv5jk71s | SESSION_USER=admin | POST_id=11 | POST_password=a******3
+[2025-12-19 07:36:45] Verified by session user (admin)
+[2025-12-19 07:36:45] Encrypted lengths for id=11: nomor_hp_encrypted_len=68, data_transaksi_encrypted_len=1
+[2025-12-19 07:37:51] IP=::1 | PHPSESSID=jjm8eraofheni3148juv5jk71s | SESSION_USER=admin | POST_id=12 | POST_password=a******3
+[2025-12-19 07:37:51] Verified by session user (admin)
+[2025-12-19 07:37:51] Encrypted lengths for id=12: nomor_hp_encrypted_len=68, data_transaksi_encrypted_len=1
+[2025-12-19 08:05:42] IP=::1 | PHPSESSID=jjm8eraofheni3148juv5jk71s | SESSION_USER=admin | POST_id=13 | POST_password=a******3
+[2025-12-19 08:05:42] Verified by session user (admin)
+[2025-12-19 08:05:42] Encrypted lengths for id=13: nomor_hp_encrypted_len=68, data_transaksi_encrypted_len=180
+[2025-12-19 08:05:42] Decrypted payload for id=13 (truncated): {"biaya_service":200000,"metode_pembayaran":"Cash","created_by":"fakhri afif"}
+[2025-12-19 08:05:42] Decoded keys for id=13: ["biaya_service","metode_pembayaran","created_by"] | biaya_service=200000
+[2025-12-19 08:06:49] IP=::1 | PHPSESSID=jjm8eraofheni3148juv5jk71s | SESSION_USER=admin | POST_id=12 | POST_password=a******3
+[2025-12-19 08:06:49] Verified by session user (admin)
+[2025-12-19 08:06:49] Encrypted lengths for id=12: nomor_hp_encrypted_len=68, data_transaksi_encrypted_len=180
+[2025-12-19 08:06:49] Decrypted payload for id=12 (truncated): {"biaya_service":20000,"metode_pembayaran":"Cash","created_by":"fakhri afif"}
+[2025-12-19 08:06:49] Decoded keys for id=12: ["biaya_service","metode_pembayaran","created_by"] | biaya_service=20000
+[2025-12-19 08:18:16] IP=::1 | PHPSESSID=jjm8eraofheni3148juv5jk71s | SESSION_USER=admin | POST_id=15 | POST_password=a******3
+[2025-12-19 08:18:16] Verified by session user (admin)
+[2025-12-19 08:18:16] Encrypted lengths for id=15: nomor_hp_encrypted_len=68, data_transaksi_encrypted_len=208
+[2025-12-19 08:18:16] Decrypted payload for id=15 (truncated): {"biaya_service":200000,"catatan":"","metode_pembayaran":"Cash","created_by":"fakhri afif"}
+[2025-12-19 08:18:16] Decoded keys for id=15: ["biaya_service","catatan","metode_pembayaran","created_by"] | biaya_service=200000
+[2025-12-19 09:07:51] IP=::1 | PHPSESSID=jjm8eraofheni3148juv5jk71s | SESSION_USER=admin | POST_id=15 | POST_password=a******3
+[2025-12-19 09:07:51] Verified by session user (admin)
+[2025-12-19 09:07:51] Encrypted lengths for id=15: nomor_hp_encrypted_len=68, data_transaksi_encrypted_len=208
+[2025-12-19 09:07:51] Decrypted payload for id=15 (truncated): {"biaya_service":200000,"catatan":"","metode_pembayaran":"Cash","created_by":"fakhri afif"}
+[2025-12-19 09:07:51] Decoded keys for id=15: ["biaya_service","catatan","metode_pembayaran","created_by"] | biaya_service=200000
+[2025-12-21 17:09:05] IP=::1 | PHPSESSID=mi1oatik4bd9s35iuq98pqhqs6 | SESSION_USER=admin | POST_id=8 | POST_password=a******3
+[2025-12-21 17:09:05] Verification FAILED for session user: admin
+[2025-12-21 17:09:14] IP=::1 | PHPSESSID=mi1oatik4bd9s35iuq98pqhqs6 | SESSION_USER=admin | POST_id=8 | POST_password=p******d
+[2025-12-21 17:09:14] Verified by session user (admin)
+[2025-12-21 17:09:14] Encrypted lengths for id=8: nomor_hp_encrypted_len=68, data_transaksi_encrypted_len=264
+[2025-12-21 17:09:14] Decrypted payload for id=8 (truncated): {"biaya_service":250000,"catatan":"Orangnya bayarnya ntar sore","metode_pembayaran":"Cash","created_by":"Administrator"}
+[2025-12-21 17:09:14] Decoded keys for id=8: ["biaya_service","catatan","metode_pembayaran","created_by"] | biaya_service=250000
+[2025-12-21 17:09:45] IP=::1 | PHPSESSID=mi1oatik4bd9s35iuq98pqhqs6 | SESSION_USER=admin | POST_id=8 | POST_password=p******d
+[2025-12-21 17:09:45] Verified by session user (admin)
+[2025-12-21 17:09:45] Encrypted lengths for id=8: nomor_hp_encrypted_len=68, data_transaksi_encrypted_len=264
+[2025-12-21 17:09:45] Decrypted payload for id=8 (truncated): {"biaya_service":250000,"catatan":"Orangnya bayarnya ntar sore","metode_pembayaran":"Cash","created_by":"Administrator"}
+[2025-12-21 17:09:45] Decoded keys for id=8: ["biaya_service","catatan","metode_pembayaran","created_by"] | biaya_service=250000
+[2025-12-21 17:19:04] IP=::1 | PHPSESSID=mi1oatik4bd9s35iuq98pqhqs6 | SESSION_USER=admin | POST_id=9 | POST_password=p******d
+[2025-12-21 17:19:04] Verified by session user (admin)
+[2025-12-21 17:19:04] Encrypted lengths for id=9: nomor_hp_encrypted_len=68, data_transaksi_encrypted_len=208
+[2025-12-21 17:19:04] Decrypted payload for id=9 (truncated): {"biaya_service":50000,"catatan":"","metode_pembayaran":"Cash","created_by":"Administrator"}
+[2025-12-21 17:19:04] Decoded keys for id=9: ["biaya_service","catatan","metode_pembayaran","created_by"] | biaya_service=50000
+[2026-01-05 04:05:25] IP=::1 | PHPSESSID=i76bkj051kdkh0l7v317atatk7 | SESSION_USER=admin | POST_id=9 | POST_password=a***n
+[2026-01-05 04:05:25] Verification FAILED for session user: admin
+[2026-01-05 04:05:43] IP=::1 | PHPSESSID=i76bkj051kdkh0l7v317atatk7 | SESSION_USER=admin | POST_id=9 | POST_password=p******d
+[2026-01-05 04:05:43] Verified by session user (admin)
+[2026-01-05 04:05:43] Encrypted lengths for id=9: nomor_hp_encrypted_len=68, data_transaksi_encrypted_len=208
+[2026-01-05 04:05:43] Decrypted payload for id=9 (truncated): {"biaya_service":50000,"catatan":"","metode_pembayaran":"Cash","created_by":"Administrator"}
+[2026-01-05 04:05:43] Decoded keys for id=9: ["biaya_service","catatan","metode_pembayaran","created_by"] | biaya_service=50000
+[2026-01-05 04:06:14] IP=::1 | PHPSESSID=i76bkj051kdkh0l7v317atatk7 | SESSION_USER=admin | POST_id=9 | POST_password=p******d
+[2026-01-05 04:06:14] Verified by session user (admin)
+[2026-01-05 04:06:14] Encrypted lengths for id=9: nomor_hp_encrypted_len=68, data_transaksi_encrypted_len=208
+[2026-01-05 04:06:14] Decrypted payload for id=9 (truncated): {"biaya_service":50000,"catatan":"","metode_pembayaran":"Cash","created_by":"Administrator"}
+[2026-01-05 04:06:14] Decoded keys for id=9: ["biaya_service","catatan","metode_pembayaran","created_by"] | biaya_service=50000
+[2026-01-05 04:12:51] IP=::1 | PHPSESSID=i76bkj051kdkh0l7v317atatk7 | SESSION_USER=admin | POST_id=8 | POST_password=p******d
+[2026-01-05 04:12:52] Verified by session user (admin)
+[2026-01-05 04:12:52] Encrypted lengths for id=8: nomor_hp_encrypted_len=68, data_transaksi_encrypted_len=264
+[2026-01-05 04:12:52] Decrypted payload for id=8 (truncated): {"biaya_service":250000,"catatan":"Orangnya bayarnya ntar sore","metode_pembayaran":"Cash","created_by":"Administrator"}
+[2026-01-05 04:12:52] Decoded keys for id=8: ["biaya_service","catatan","metode_pembayaran","created_by"] | biaya_service=250000
